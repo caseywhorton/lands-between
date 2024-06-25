@@ -1,0 +1,4 @@
+bin/*
+lib/*
+pyvenv.cfg
+elden-ring-data/*
