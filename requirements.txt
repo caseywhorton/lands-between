@@ -1,1 +1,7 @@
 pandas>=1.4
+os
+getpass
+fastapi
+langchain
+langserve[all]
+langchain-openai
